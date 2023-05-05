@@ -22,7 +22,3 @@
                 <input type="submit" name="login" value="Login" class="btn btn-success">
             </div>
         </form>
-    </div>
-
-</body>
-</html>
